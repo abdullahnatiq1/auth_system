@@ -1,0 +1,4 @@
+auth_system
+__pycache__
+.mypy_cache
+.venv
