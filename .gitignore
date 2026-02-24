@@ -1,4 +1,4 @@
-auth_system
+.env
 __pycache__
-.mypy_cache
 .venv
+.mypy_cache
